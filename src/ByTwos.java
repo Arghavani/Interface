@@ -7,6 +7,8 @@ public class ByTwos implements Series {
     public int getNext(){
         if(val >=Max){
             System.out.println(ErrorMSG);
+            System.out.println("I am here");
+
         }else {
 
 
