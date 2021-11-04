@@ -30,4 +30,7 @@ public class ByTwos implements Series {
     public void print2Some(String todo){
         System.out.println("to do");
     }
+    public void feature2() {
+        System.out.println("to do ");
+    }
 }
