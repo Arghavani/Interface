@@ -27,4 +27,7 @@ public class ByTwos implements Series {
     public void printSome(){
         System.out.println("hey good morning");
     }
+    public void print2Some(String todo){
+        System.out.println("to do");
+    }
 }
