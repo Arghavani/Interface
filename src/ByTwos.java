@@ -21,4 +21,7 @@ public class ByTwos implements Series {
     /*public void printStuff(){
         System.out.println("I am ByTwos Class.");
     }*/
+    public void printSome(){
+        System.out.println("hey good morning");
+    }
 }
